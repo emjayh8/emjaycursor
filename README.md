@@ -81,3 +81,5 @@ firebase.json
 generate-og-image.js
 convert-svg.js
 ```
+License
+MIT License
